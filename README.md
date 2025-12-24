@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="LY_Protector_10-removebg-preview.pn" width="600">
+  <img src="LY_Protector_10-removebg-preview.png" width="600">
 </p>
 
-g
 
 # نظام LYProtector لمكافحة الفيروسات
 
